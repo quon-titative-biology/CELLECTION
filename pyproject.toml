@@ -31,7 +31,6 @@ classifiers = [
 requires-python = ">=3.8"
 dependencies = [
     "torch==2.4.1",
-    "torchvision>=0.15.0",
     "numpy>=1.21.0",
     "scipy>=1.7.0",
     "scikit-learn>=1.0.0",
@@ -41,8 +40,6 @@ dependencies = [
     "tqdm>=4.60.0",
     "scanpy==1.10.3",
     "anndata==0.10.9",
-    "pytorch-lightning>=1.9.0",
-    "torchmetrics>=1.4.0",
 ]
 
 [project.optional-dependencies]
@@ -56,8 +53,6 @@ full = [
     "scanpy==1.10.3",
     "anndata==0.10.9",
     "scvi-tools>=0.20.0",
-    "pytorch-lightning>=1.9.0",
-    "torchmetrics>=1.4.0",
 ]
 
 [project.urls]

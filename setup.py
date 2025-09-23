@@ -54,8 +54,6 @@ setup(
             "scanpy>=1.10.0",
             "anndata>=0.10.0",
             "scvi-tools>=0.20.0",
-            "pytorch-lightning>=1.9.0",
-            "torchmetrics>=1.4.0",
         ],
     },
     keywords="deep-learning, bioinformatics, machine-learning, multiple-instance-learning, pointnet",

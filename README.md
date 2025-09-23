@@ -26,7 +26,7 @@ pip install -e .
 ```
 
 We suggest using 
-`pip3 install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/test/cu118`
+`pip3 install torch==2.4.1 torchvision==0.19.1 --index-url https://download.pytorch.org/whl/test/cu118`
 
 ---
 ### Package requirements
